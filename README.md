@@ -1,2 +1,2 @@
 # sample-restfull-td
-Sample app restfull
+Sample app restfull basic.
